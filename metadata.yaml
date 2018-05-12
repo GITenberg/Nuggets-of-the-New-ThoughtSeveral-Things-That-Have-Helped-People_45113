@@ -1,0 +1,35 @@
+_repo: Nuggets-of-the-New-ThoughtSeveral-Things-That-Have-Helped-People_45113
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45113-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Atkinson, William Walker
+    aliases:
+    - Panchadasi, Swami
+    - Vishita, Bhakta
+    - Ramacharaka, Yogi
+    birthdate: 1862
+    deathdate: 1932
+    gutenberg_agent_id: '4862'
+    url: http://www.gutenberg.org/2009/agents/4862
+    wikipedia:
+    - http://en.wikipedia.org/wiki/William_Walker_Atkinson
+    - http://www.gutenberg.org/browse/authors/t#a5407
+    - http://www.gutenberg.org/browse/authors/d#a662
+description: ''
+gutenberg_issued: '2014-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45113'
+  lccn: 02028770
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'New Thought'
+title: 'Nuggets of the New Thought: Several Things That Have Helped People'
+url: http://www.gutenberg.org/ebooks/45113
