@@ -19,6 +19,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/t#a5407
     - http://www.gutenberg.org/browse/authors/d#a662
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45113#Nuggets-of-the-New-ThoughtSeveral-Things-That-Have-Helped-People
 gutenberg_issued: '2014-03-11'
 gutenberg_type: Text
 identifiers:
